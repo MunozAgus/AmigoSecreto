@@ -14,3 +14,5 @@ Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del 
 
 Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", validará que se hayan ingresado nombres para el juego y se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
+Enlace Aplicacion 
+https://munozagus.github.io/AmigoSecreto/
